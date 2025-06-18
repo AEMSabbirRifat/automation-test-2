@@ -1,0 +1,19 @@
+{
+  "name": "liascript-automation-week03",
+  "version": "1.0.0",
+  "description": "Automated Liascript PDF generation for week03_.md",
+  "main": "index.js",
+  "scripts": {
+    "generate-pdf": "node scripts/generate-pdf.js"
+  },
+  "keywords": [
+    "liascript",
+    "automation",
+    "pdf"
+  ],
+  "author": "Your Name/Organization",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}
